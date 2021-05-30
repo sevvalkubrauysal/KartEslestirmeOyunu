@@ -1,0 +1,13 @@
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe.config
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.exe
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\bin\Debug\KartOyunu.pdb
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csprojAssemblyReference.cache
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Form1.resources
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Properties.Resources.resources
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.GenerateResource.cache
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.csproj.CoreCompileInputs.cache
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.exe
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.pdb
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.AnaSayfa.resources
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Form2.resources
+C:\Users\uysal\source\repos\KartOyunu\KartOyunu\obj\Debug\KartOyunu.Form3.resources
